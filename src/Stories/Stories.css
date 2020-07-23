@@ -1,0 +1,35 @@
+.stories .card{
+
+
+    padding: 10px;
+
+}
+
+.stories .story img{
+    width: 50px;
+    height: 50px;
+
+    border-radius: 50px;
+    border: 2px solid rgba(255,16,88,0.83);
+}
+
+.stories .story{
+    margin: 5px;
+    padding-top: 5px;
+    width: 60px;
+
+}
+.stories .story p{
+    max-width: 60px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    height: 20px;
+}
+
+.stories .story p::-webkit-scrollbar{
+    display: none;
+}
+.stories ::-webkit-scrollbar{
+     display: none;
+ }
+

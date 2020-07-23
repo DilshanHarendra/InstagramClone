@@ -1,0 +1,43 @@
+.signin{
+    margin-top: 5%;
+}
+.signin form{
+    width: 100%;
+    margin-left: 10%;
+
+}
+.signin .logo{
+    margin-top: 30px;
+    width: 80%;
+    height: 51px;
+    object-fit: contain;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+.signin input{
+    width: 80%;
+    background-color: #fafafa;
+    padding: 9px 0 7px 8px;
+    padding: 9px 0 7px 8px;
+    margin-bottom: 15px;
+
+}
+.signin .button{
+    margin-top: 15px;
+    width: 80%;
+    border:none;
+    outline: none;
+    background-color: rgba(0,149,246,1);
+    color:white;
+    padding: 5px;
+}
+.signin .button:hover{
+    opacity: 0.5;
+}
+.signin .sidePhoto{
+    height: 100%;
+    object-fit: contain;
+    height: 470px;
+    margin-bottom: 50px;
+}
